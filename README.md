@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmeca2504&layout=compact)](https://github.com/kmeca2504/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmeca2504&layout=compact)](https://github.com/kmeca2504/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmeca2504)](https://solved.ac/kmeca2504/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmeca2504&theme=graywhite&show_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmeca2504)](https://solved.ac/kmeca2504/)
+
