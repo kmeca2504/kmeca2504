@@ -1,4 +1,4 @@
-### Hi there 👋
+###  
 
 <!--
 **kmeca2504/kmeca2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
